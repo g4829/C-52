@@ -1,0 +1,20 @@
+h1{
+    color: red;
+    margin-left: 10px;
+}
+
+body{
+    background-color: black;
+}
+
+.Home{
+    margin-right: 50px;
+}
+
+.AboutUs{
+    margin-right: 30px;
+}
+
+.FollowUs{
+    margin-right: 10px;
+}
